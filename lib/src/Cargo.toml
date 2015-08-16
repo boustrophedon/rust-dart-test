@@ -1,0 +1,10 @@
+[package]
+name = "rust_extension"
+version = "0.1.0"
+authors = ["Harry Stern <hcs@meow.sh>"]
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
+libc = "0.1.10"

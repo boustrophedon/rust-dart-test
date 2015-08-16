@@ -1,0 +1,7 @@
+name: rust_dart_test
+version: "0.0.1"
+description: test writing a dart extension in rust
+author: Harry Stern <harry.stern@rutgers.edu>
+homepage: https://github.com/boustrophedon/rust-dart-test
+environment:
+  sdk: ">=1.11.0"
